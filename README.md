@@ -1,5 +1,3 @@
-Sure, here is a basic template for a `README.md` file for your project:
-
 # Length Extension Attack
 
 This project is a Python implementation of a length extension attack. It includes a custom hash function and a class to perform the attack.
